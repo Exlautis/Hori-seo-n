@@ -11,5 +11,5 @@ added alt atributes to all images
 changed title from webpage to heriseon webpage
 
 ##Link to Github https://github.com/Exlautis/Hori-seo-n
-##Link to Deployed Website 
+##Link to Deployed Website https://exlautis.github.io/Hori-seo-n/
 
